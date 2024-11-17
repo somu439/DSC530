@@ -1,2 +1,5 @@
 # DSC530 Term Project 
-DSC530 Term Project Name: Fraudulent Activities in Bank Transactions
+Project Name: Fraudulent Activities in Bank Transactions
+
+Statistical/Hypothetical Question:
+The primary question addressed in this analysis is, Are there significant patterns or indicators in the transaction characteristics that could help detect potentially fraudulent activities in the bank transactions?
