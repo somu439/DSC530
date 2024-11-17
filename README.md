@@ -1,2 +1,2 @@
-# DSC530
-DSC530 project
+# DSC530 Term Project 
+DSC530 Term Project
